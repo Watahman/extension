@@ -1,0 +1,18 @@
+<main>
+	<section>
+		<img
+			src="https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+			alt="Attack on Titan"
+			class="hidden sm:block w-28 h-40 object-cover rounded-xl"
+		/>
+		<div class="flex flex-col gap-2 min-w-0">
+			<div class="flex items-start gap-3">
+				<h1 class="text-2xl font-black leading-tight text-white flex-1">
+					Attack on Titan
+				</h1>
+			</div>
+		</div>
+	</section>
+	<span data-testid="nav-episode-counter">1/25</span>
+	<video></video>
+</main>
